@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubLib</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="see_more">See more</string>
+    <string name="repository_details">Repository Details</string>
+    <string name="search_for_repositories">Search for repositories</string>
+    <string name="select_language">Select language</string>
+    <string name="settings">Settings</string>
+    <string name="english" translatable="false">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="retry">Retry</string>
+</resources>

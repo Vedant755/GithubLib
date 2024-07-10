@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD_S05</string>
+    <string name="something_went_wrong">कुछ गलत हो गया</string>
+    <string name="see_more">और देखें</string>
+    <string name="repository_details">रिपोजिटरी विवरण</string>
+    <string name="search_for_repositories">रिपॉजिटरी खोजें</string>
+    <string name="select_language">भाषा चुने</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="hindi">हिंदी</string>
+    <string name="retry">पुन: प्रयास करें</string>
+</resources>
